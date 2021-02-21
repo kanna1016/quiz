@@ -45,4 +45,4 @@ exit でコンテナから出る
 ## ドッカーコンテナの立ち上げ  
 さっき出てきたターミナル内で  
 cd _docker エンター  
-docker-compose up -d　エンター 
+docker-compose up -d　
